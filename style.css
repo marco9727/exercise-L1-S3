@@ -2,7 +2,7 @@ body {
   text-align: center;
   margin: 0%;
   color: #333333;
-  font-family: "Times New Roman", Times, serif;
+  font-family: georgia;
 }
 
 #logo {
@@ -60,4 +60,19 @@ nav {
 
 .ingredients p {
   font-weight: bold;
+}
+
+.section-second p {
+  font-weight: bold;
+}
+
+ul li {
+  margin-bottom: 1rem;
+}
+
+.content video {
+  border-radius: 10px;
+  margin-top: 1rem;
+  width: 500px;
+  margin-left: 8rem;
 }
